@@ -33,7 +33,7 @@ public class StudentMapperTest {
         student.setName("李雷");
         student.setAge(21);
         studentMapper.updateStudentById(student);
-        System.out.println("123");
+        System.out.println("1234");
     }
 
     @After
